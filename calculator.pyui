@@ -1,0 +1,158 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{245, 201}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "tint_color" : "RGBA(1.000000,0.166667,0.166667,1.000000)",
+          "uuid" : "52B03FE3-506C-4D7D-AC33-1799383C3C27",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "label2"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{245, 241}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "0C8F4572-4107-47EF-8827-CDC720E5C9DB",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "label3"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{245, 161}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "F167A9AA-912D-45A5-8856-D6FB83A5F889",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "label1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{245, 281}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "611DDD6C-6FC4-4739-9E6D-AA3423C88D6E",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "label4"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{36, 161}, {183, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "equation1_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "5+2^3",
+          "uuid" : "A500889C-6FFA-4ACE-82E9-D29B9F065835",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{36, 201}, {183, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "equation2_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "4\/2+5",
+          "uuid" : "6341484C-CFFF-457F-A3F7-0B7EDC95571C",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{36, 241}, {183, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "equation3_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "3+4*2",
+          "uuid" : "01D38FFA-533D-492B-BC22-85D032FA17D0",
+          "class" : "Button",
+          "name" : "button3",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{36, 281}, {183, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "equation4_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "7-3+2",
+          "uuid" : "74D8C5B5-1729-42F2-917F-552756AC5518",
+          "class" : "Button",
+          "name" : "button4",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)"
+    },
+    "selected" : false
+  }
+]
